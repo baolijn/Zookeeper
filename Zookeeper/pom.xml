@@ -17,26 +17,6 @@
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
             <version>4.12</version>
-            <scope>test</scope>
         </dependency>
-        <dependency>
-            <groupId>org.slf4j</groupId>
-            <artifactId>slf4j-api</artifactId>
-            <version>1.6.1</version>
-        </dependency>
-        <!--<dependency>-->
-            <!--<groupId>zookeeper</groupId>-->
-            <!--<artifactId>zookeeper</artifactId>-->
-            <!--<scope>system</scope>-->
-            <!--<version>1.0</version>-->
-            <!--<systemPath>${basedir}\lib\zookeeper-3.4.6.jar</systemPath>-->
-        <!--</dependency>-->
-        <!--<dependency>-->
-            <!--<groupId>zookeeper</groupId>-->
-            <!--<artifactId>zookeeper</artifactId>-->
-            <!--<scope>system</scope>-->
-            <!--<version>1.0</version>-->
-            <!--<systemPath>${basedir}\lib\zookeeper-3.4.6.jar</systemPath>-->
-        <!--</dependency>-->
     </dependencies>
 </project>
